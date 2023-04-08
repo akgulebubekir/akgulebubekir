@@ -40,11 +40,11 @@
 ### Recent Activity
 <!--- This section will be filled by actions-->
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/akgulebubekir/Maui.DataGrid/issues/78) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-2. 🗣 Commented on [#43](https://github.com/akgulebubekir/Maui.DataGrid/issues/43) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-3. ❗️ Closed issue [#9](https://github.com/akgulebubekir/Maui.DataGrid/issues/9) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-4. 🗣 Commented on [#9](https://github.com/akgulebubekir/Maui.DataGrid/issues/9) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-5. ❗️ Closed issue [#103](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/103) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
+1. ❗️ Closed issue [#86](https://github.com/akgulebubekir/Maui.DataGrid/issues/86) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+2. 🗣 Commented on [#86](https://github.com/akgulebubekir/Maui.DataGrid/issues/86) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+3. ❗️ Closed issue [#84](https://github.com/akgulebubekir/Maui.DataGrid/issues/84) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+4. 🎉 Merged PR [#85](https://github.com/akgulebubekir/Maui.DataGrid/pull/85) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+5. ❗️ Opened issue [#78](https://github.com/akgulebubekir/Maui.DataGrid/issues/78) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
 <!--END_SECTION:activity-->
 
 ---
