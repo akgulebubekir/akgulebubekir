@@ -54,5 +54,5 @@
 > You may consider to show me your interest and keep my motivation high. Buying me a coffee will keep me awake while developing cool projects that make life easier.
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/akgebu" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="60" width="217"></a>
+  <a href="https://www.buymeacoffee.com/akgebu" target="blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="60" width="217"></a>
 </p>
