@@ -2,11 +2,12 @@
 ### 🇸🇪 Hej 👋, Jag är Ebu
 ### 🇹🇷 Merhaba 👋, Ben Ebu
 
-> - A software developer at [Boeing](https://www.boeing.com).  
-> - I'm mosly working on `.net`, `Maui`, `WPF`, `WinForms`, `WinUI`, `FlaUI`, `Xamarin`, `Python`.
+> - Software Engineer at [Boeing](https://www.boeing.com) since August 2018.  
+> - Mostly working on `.net`, `Maui`, `WPF`, `WinForms`, `WinUI`, `FlaUI`, `Xamarin`, `Python`.
 
 ---
 ###  I ❤ Open-Source
+
 
 <img src="https://raw.githubusercontent.com/akgulebubekir/akgulebubekir/main/profile-3d-contrib/profile-night-green.svg" />
 
