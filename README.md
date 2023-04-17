@@ -40,11 +40,11 @@
 ### Recent Activity
 <!--- This section will be filled by actions-->
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#78](https://github.com/akgulebubekir/Maui.DataGrid/issues/78) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-2. 🗣 Commented on [#75](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/75) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
-3. ❗️ Closed issue [#75](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/75) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
-4. ❗️ Closed issue [#86](https://github.com/akgulebubekir/Maui.DataGrid/issues/86) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-5. 🗣 Commented on [#86](https://github.com/akgulebubekir/Maui.DataGrid/issues/86) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+1. ❗️ Closed issue [#175](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/175) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
+2. ❗️ Closed issue [#78](https://github.com/akgulebubekir/Maui.DataGrid/issues/78) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+3. 🗣 Commented on [#75](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/75) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
+4. ❗️ Closed issue [#75](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/75) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
+5. ❗️ Closed issue [#86](https://github.com/akgulebubekir/Maui.DataGrid/issues/86) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
 <!--END_SECTION:activity-->
 
 ---
