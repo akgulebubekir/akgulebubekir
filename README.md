@@ -1,6 +1,6 @@
-### 🇬🇧 Hey 👋, I'm Ebu
-### 🇸🇪 Hej 👋, Jag är Ebu
-### 🇹🇷 Merhaba 👋, Ben Ebu
+### <img src ="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="20" height=20/> Hey 👋, I'm Ebu
+### <img src ="https://flagicons.lipis.dev/flags/4x3/se.svg" width="20" height=20/> Hej 👋, Jag är Ebu
+### <img src ="https://flagicons.lipis.dev/flags/4x3/tr.svg" width="20" height=20/> Merhaba 👋, Ben Ebu
 
 > - Software Engineer at [Boeing](https://www.boeing.com) since August 2018.  
 > - Mostly working on `.net`, `Maui`, `WPF`, `WinForms`, `WinUI`, `FlaUI`, `Xamarin`, `Python`.
@@ -12,8 +12,8 @@
 <img src="https://raw.githubusercontent.com/akgulebubekir/akgulebubekir/main/profile-3d-contrib/profile-night-green.svg" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akgulebubekir&layout=compact&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akgulebubekir&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akgulebubekir&layout=compact&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akgulebubekir&show_icons=true&theme=tokyonight&count_private=true" height="160" />
 </p>
 
 <p align="center">
