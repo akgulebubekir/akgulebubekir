@@ -8,16 +8,31 @@
 ---
 ###  I ❤ Open-Source
 
-
-<img src="https://raw.githubusercontent.com/akgulebubekir/akgulebubekir/main/profile-3d-contrib/profile-night-green.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akgulebubekir/akgulebubekir/main/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akgulebubekir/akgulebubekir/main/profile-3d-contrib/profile-green-animate.svg">
+  <img src="https://raw.githubusercontent.com/akgulebubekir/akgulebubekir/main/profile-3d-contrib/profile-green-animate.svg">
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akgulebubekir&layout=compact&theme=tokyonight&count_private=true" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akgulebubekir&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akgulebubekir&layout=compact&theme=tokyonight&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akgulebubekir&layout=compact&count_private=true">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akgulebubekir&layout=compact&count_private=true" height="160">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akgulebubekir&show_icons=true&theme=tokyonight&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akgulebubekir&show_icons=true&count_private=true">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akgulebubekir&show_icons=true&count_private=true" height="160">
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akgulebubekir&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F%22" height="160" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=akgulebubekir&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F%22" >
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=akgulebubekir&theme=light&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F%22" >
+  <img src="https://streak-stats.demolab.com/?user=akgulebubekir&theme=light&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F%22" >
+</picture>
 </p>
 
 <p align="center">
