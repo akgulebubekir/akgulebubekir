@@ -55,11 +55,11 @@
 ### Recent Activity
 <!--- This section will be filled by actions-->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/akgulebubekir/Maui.DataGrid/pull/5#issuecomment-1633207596) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-2. 🎉 Merged PR [#106](https://github.com/akgulebubekir/Maui.DataGrid/pull/106) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-3. 🔒 Closed issue [#177](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/177) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
-4. 🗣 Commented on [#177](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/177#issuecomment-1614312665) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
-5. 🗣 Commented on [#101](https://github.com/akgulebubekir/Maui.DataGrid/issues/101#issuecomment-1609962905) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+1. 🚀 Published release [Maui.DataGrid 3.0.0](https://github.com/akgulebubekir/Maui.DataGrid/releases/tag/3.0.0) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+2. 🗣 Commented on [#5](https://github.com/akgulebubekir/Maui.DataGrid/pull/5#issuecomment-1633207596) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+3. 🎉 Merged PR [#106](https://github.com/akgulebubekir/Maui.DataGrid/pull/106) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+4. 🔒 Closed issue [#177](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/177) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
+5. 🗣 Commented on [#177](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/177#issuecomment-1614312665) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
 <!--END_SECTION:activity-->
 
 ---
