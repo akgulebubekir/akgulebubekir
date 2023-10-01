@@ -55,11 +55,11 @@
 ### Recent Activity
 <!--- This section will be filled by actions-->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [PdfSharp.Maui 1.0.2](https://github.com/akgulebubekir/PdfSharp.Maui/releases/tag/rel-1.0.2) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
-2. 🔒 Closed issue [#2](https://github.com/akgulebubekir/PdfSharp.Maui/issues/2) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
-3. 🗣 Commented on [#2](https://github.com/akgulebubekir/PdfSharp.Maui/issues/2#issuecomment-1721913630) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
-4. 🚀 Published release [Maui.DataGrid 3.0.0](https://github.com/akgulebubekir/Maui.DataGrid/releases/tag/3.0.0) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-5. 🗣 Commented on [#5](https://github.com/akgulebubekir/Maui.DataGrid/pull/5#issuecomment-1633207596) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+1. 🔒 Closed issue [#178](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/178) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
+2. 🗣 Commented on [#178](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid/issues/178#issuecomment-1742039820) in [akgulebubekir/Xamarin.Forms.DataGrid](https://github.com/akgulebubekir/Xamarin.Forms.DataGrid)
+3. 🚀 Published release [PdfSharp.Maui 1.0.2](https://github.com/akgulebubekir/PdfSharp.Maui/releases/tag/rel-1.0.2) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
+4. 🔒 Closed issue [#2](https://github.com/akgulebubekir/PdfSharp.Maui/issues/2) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
+5. 🗣 Commented on [#2](https://github.com/akgulebubekir/PdfSharp.Maui/issues/2#issuecomment-1721913630) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
 <!--END_SECTION:activity-->
 
 ---
