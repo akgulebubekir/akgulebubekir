@@ -54,11 +54,11 @@
 ### Recent Activity
 <!--- This section will be filled by actions-->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Maui.DataGrid 4.0.3](https://github.com/akgulebubekir/Maui.DataGrid/releases/tag/4.0.3) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-2. 🎉 Merged PR [#7](https://github.com/akgulebubekir/PdfSharp.Maui/pull/7) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
-3. ❌ Closed PR [#169](https://github.com/akgulebubekir/Maui.DataGrid/pull/169) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-4. 🗣 Commented on [#3](https://github.com/akgulebubekir/PdfSharp.Maui/issues/3#issuecomment-2018876184) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
-5. 🔒 Closed issue [#3](https://github.com/akgulebubekir/PdfSharp.Maui/issues/3) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
+1. 🗣 Commented on [#170](https://github.com/akgulebubekir/Maui.DataGrid/issues/170#issuecomment-2078183677) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+2. 🚀 Published release [Maui.DataGrid 4.0.3](https://github.com/akgulebubekir/Maui.DataGrid/releases/tag/4.0.3) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+3. 🎉 Merged PR [#7](https://github.com/akgulebubekir/PdfSharp.Maui/pull/7) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
+4. ❌ Closed PR [#169](https://github.com/akgulebubekir/Maui.DataGrid/pull/169) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+5. 🗣 Commented on [#3](https://github.com/akgulebubekir/PdfSharp.Maui/issues/3#issuecomment-2018876184) in [akgulebubekir/PdfSharp.Maui](https://github.com/akgulebubekir/PdfSharp.Maui)
 <!--END_SECTION:activity-->
 
 ---
