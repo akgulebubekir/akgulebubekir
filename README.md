@@ -54,8 +54,8 @@
 ### Recent Activity
 <!--- This section will be filled by actions-->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#210](https://github.com/akgulebubekir/Maui.DataGrid/pull/210) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-2. 🚀 Published release [Maui.DataGrid 4.0.5](https://github.com/akgulebubekir/Maui.DataGrid/releases/tag/4.0.5) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+1. 🚀 Published release [Maui.DataGrid 4.0.6](https://github.com/akgulebubekir/Maui.DataGrid/releases/tag/4.0.6) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+2. 🎉 Merged PR [#210](https://github.com/akgulebubekir/Maui.DataGrid/pull/210) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
 3. 🚀 Published release [4.0.4](https://github.com/akgulebubekir/Maui.DataGrid/releases/tag/4.0.4) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
 4. 🗣 Commented on [#170](https://github.com/akgulebubekir/Maui.DataGrid/issues/170#issuecomment-2078183677) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
 5. 🚀 Published release [Maui.DataGrid 4.0.3](https://github.com/akgulebubekir/Maui.DataGrid/releases/tag/4.0.3) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
