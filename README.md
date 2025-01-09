@@ -43,9 +43,9 @@
 
 ### Follow me on
 
-<a href="https://www.linkedin.com/in/ebu-akgul/" target="blank"><img src="https://cdn.simpleicons.org/linkedin/lightgray" height="30" width="30"/></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ebu-akgul/" target="blank"><img src="https://cdn.simpleicons.org/linkedin" height="30" width="30"/></a> &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/1017153/eakgul" target="blank"><img src="https://cdn.simpleicons.org/stackoverflow/lightgray" height="30" width="30"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/akgulEbubekir" target="blank"><img src="https://cdn.simpleicons.org/twitter/lightgray" height="30" width="30"/></a>&nbsp;&nbsp;
+<a href="https://x.com/akgulEbubekir" target="blank"><img src="https://cdn.simpleicons.org/x/lightgray" height="30" width="30"/></a>&nbsp;&nbsp;
 <a href="https://www.thingiverse.com/eakgul/designs" target="blank"><img src="https://cdn.simpleicons.org/thingiverse/lightgray" height="30" width="30"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/akgebu/" target="blank"><img src="https://cdn.simpleicons.org/instagram/lightgray" height="30" width="30"/></a>&nbsp;&nbsp;
 
