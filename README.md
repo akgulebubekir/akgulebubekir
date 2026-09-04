@@ -54,11 +54,11 @@
 ### Recent Activity
 <!--- This section will be filled by actions-->
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#185](https://github.com/akgulebubekir/Maui.DataGrid/issues/185) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-2. 🔒 Closed issue [#174](https://github.com/akgulebubekir/Maui.DataGrid/issues/174) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-3. 🔒 Closed issue [#172](https://github.com/akgulebubekir/Maui.DataGrid/issues/172) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-4. 🔒 Closed issue [#231](https://github.com/akgulebubekir/Maui.DataGrid/issues/231) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
-5. 🗣 Commented on [#198](https://github.com/akgulebubekir/Maui.DataGrid/issues/198#issuecomment-5484690112) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+1. 🔒 Closed issue [#233](https://github.com/akgulebubekir/Maui.DataGrid/issues/233) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+2. 🔒 Closed issue [#179](https://github.com/akgulebubekir/Maui.DataGrid/issues/179) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+3. 🔒 Closed issue [#188](https://github.com/akgulebubekir/Maui.DataGrid/issues/188) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+4. 🔒 Closed issue [#118](https://github.com/akgulebubekir/Maui.DataGrid/issues/118) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+5. 🔒 Closed issue [#185](https://github.com/akgulebubekir/Maui.DataGrid/issues/185) in [akgulebubekir/Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
 <!--END_SECTION:activity-->
 
 ---
